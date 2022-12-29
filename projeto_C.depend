@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1670634148 source:c:\users\jadso\desktop\exercicios c\projeto_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"projeto.h"
+
+1670634201 c:\users\jadso\desktop\exercicios c\projeto_c\projeto.h
+
+1670634150 source:c:\users\igor\downloads\projeto_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"projeto.h"
+
+1670634202 c:\users\igor\downloads\projeto_c\projeto.h
+
+1670634700 source:c:\users\igor\downloads\projeto_c\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"projeto.h"
+
