@@ -1,5 +1,5 @@
 # Lista de Clientes / Lista Ligada
-Relatório e controle de clientes com lista ligada. 
+Relatório e controle de clientes com lista ligada, estruturado em TAD.
 <br/>
 <br/>
 Com opções de:
